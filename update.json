@@ -1,0 +1,19 @@
+{
+        "homepage": "https://www.curseforge.com/minecraft/mc-mods/krip-turret",
+        "promos": {
+                "1.19.2-latest": "1.0.5",
+                "1.19.2-recommended": "1.0.5",
+                "1.19.4-latest": "1.0.6",
+                "1.19.4-recommended": "1.0.6",
+                "1.20.1-latest": "2.0.0",
+                "1.20.1-recommended": "1.0.7.0"
+				"1.20.4-latest": "2.1.2",
+                "1.20.4-recommended": "2.1.1"
+        },
+        "1.20.4": {
+                "2.1.0": "Ported to 1.20.4",
+                "2.1.1": "Bug fixes",
+				"2.1.2": "Bug fixes"
+        },
+        }
+}
