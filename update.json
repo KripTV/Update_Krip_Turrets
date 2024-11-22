@@ -5,8 +5,8 @@
                 "1.19.2-recommended": "2.1.4",
                 "1.19.4-latest": "2.1.4",
                 "1.19.4-recommended": "2.1.4",
-                "1.20.1-latest": "2.1.5",
-                "1.20.1-recommended": "2.1.5"
+                "1.20.1-latest": "2.3.0",
+                "1.20.1-recommended": "2.3.0"
 		"1.20.4-latest": "2.1.11",
                 "1.20.4-recommended": "2.1.13"
         },
@@ -16,5 +16,8 @@
 		"2.1.2": "Bug fixes",
 		"2.1.4": "New items",
 		"2.1.9": "New appearance of turrets from this version!"
+	},
+	"1.20.1":{
+		"2.3.0": "Bug fixes"
 	}
 }
